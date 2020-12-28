@@ -36,5 +36,5 @@ function fusionner(t1,t2){
      return fusionner(t1,t2);
   }
  }
- var tab = [1,5,4,7,6,3,9,8,2];
-      trier(tab);
+ var test = [15,9,10,8,5,6,7,2,3,4,1,11,13,12,14];
+      trier(test);
